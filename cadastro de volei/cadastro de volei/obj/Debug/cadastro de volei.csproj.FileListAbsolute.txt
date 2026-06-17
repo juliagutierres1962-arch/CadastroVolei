@@ -1,0 +1,7 @@
+C:\Users\julia.gbenetti\source\repos\cadastro de volei\cadastro de volei\bin\Debug\cadastro de volei.exe.config
+C:\Users\julia.gbenetti\source\repos\cadastro de volei\cadastro de volei\bin\Debug\cadastro de volei.exe
+C:\Users\julia.gbenetti\source\repos\cadastro de volei\cadastro de volei\bin\Debug\cadastro de volei.pdb
+C:\Users\julia.gbenetti\source\repos\cadastro de volei\cadastro de volei\obj\Debug\cadastro de volei.csproj.AssemblyReference.cache
+C:\Users\julia.gbenetti\source\repos\cadastro de volei\cadastro de volei\obj\Debug\cadastro de volei.csproj.CoreCompileInputs.cache
+C:\Users\julia.gbenetti\source\repos\cadastro de volei\cadastro de volei\obj\Debug\cadastro de volei.exe
+C:\Users\julia.gbenetti\source\repos\cadastro de volei\cadastro de volei\obj\Debug\cadastro de volei.pdb
